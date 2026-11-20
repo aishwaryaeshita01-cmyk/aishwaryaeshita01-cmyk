@@ -2,6 +2,8 @@
 
 Full-Stack Web Developer & AI Engineer specializing in Next.js, Python (FastAPI), TypeScript, and Supabase. Passionate about building scalable, resilient web applications and AI-integrated solutions.
 
+portfolio- https://portfolio-eshita.vercel.app
+
 ---
 
 ### 🚀 Featured Projects
